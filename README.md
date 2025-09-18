@@ -109,10 +109,7 @@ GET /api/recipes/search?name=pie&rating=4.5&calories=400
 
 ### Fields
 
-- `continent`: String  
-- `country`: String  
-- `country_state`: String  
-- `category`: String  
+- `cuisine`:String
 - `name`: String  
 - `ingredients`: [String]  
 - `instructions`: [String]  
