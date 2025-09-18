@@ -37,7 +37,6 @@ MONGO_URI=mongodb://localhost:27017/recipeDB
 PORT=3000
 ```
 
-> You can also use `.env.example` as a template.
 
 ### 4. Import Recipe Data
 
